@@ -1,0 +1,13 @@
+C:\Users\juanv\Desktop\DEV\back-end\Calculador_Simples\bin\Debug\netcoreapp3.1\Calculador_Simples.exe
+C:\Users\juanv\Desktop\DEV\back-end\Calculador_Simples\bin\Debug\netcoreapp3.1\Calculador_Simples.deps.json
+C:\Users\juanv\Desktop\DEV\back-end\Calculador_Simples\bin\Debug\netcoreapp3.1\Calculador_Simples.runtimeconfig.json
+C:\Users\juanv\Desktop\DEV\back-end\Calculador_Simples\bin\Debug\netcoreapp3.1\Calculador_Simples.runtimeconfig.dev.json
+C:\Users\juanv\Desktop\DEV\back-end\Calculador_Simples\bin\Debug\netcoreapp3.1\Calculador_Simples.dll
+C:\Users\juanv\Desktop\DEV\back-end\Calculador_Simples\bin\Debug\netcoreapp3.1\Calculador_Simples.pdb
+C:\Users\juanv\Desktop\DEV\back-end\Calculador_Simples\obj\Debug\netcoreapp3.1\Calculador_Simples.csprojAssemblyReference.cache
+C:\Users\juanv\Desktop\DEV\back-end\Calculador_Simples\obj\Debug\netcoreapp3.1\Calculador_Simples.AssemblyInfoInputs.cache
+C:\Users\juanv\Desktop\DEV\back-end\Calculador_Simples\obj\Debug\netcoreapp3.1\Calculador_Simples.AssemblyInfo.cs
+C:\Users\juanv\Desktop\DEV\back-end\Calculador_Simples\obj\Debug\netcoreapp3.1\Calculador_Simples.csproj.CoreCompileInputs.cache
+C:\Users\juanv\Desktop\DEV\back-end\Calculador_Simples\obj\Debug\netcoreapp3.1\Calculador_Simples.dll
+C:\Users\juanv\Desktop\DEV\back-end\Calculador_Simples\obj\Debug\netcoreapp3.1\Calculador_Simples.pdb
+C:\Users\juanv\Desktop\DEV\back-end\Calculador_Simples\obj\Debug\netcoreapp3.1\Calculador_Simples.genruntimeconfig.cache
